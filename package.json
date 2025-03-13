@@ -1,0 +1,27 @@
+{
+  "name": "maya",
+  "version": "1.0.0",
+  "description": "Simple Mail Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamDingore/Maya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SamDingore/Maya/issues"
+  },
+  "homepage": "https://github.com/SamDingore/Maya#readme"
+}
